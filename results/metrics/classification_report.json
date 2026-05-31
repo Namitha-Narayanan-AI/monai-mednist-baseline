@@ -1,0 +1,51 @@
+{
+    "AbdomenCT": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 1504.0
+    },
+    "BreastMRI": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 1312.0
+    },
+    "CXR": {
+        "precision": 0.9993220338983051,
+        "recall": 0.997968855788761,
+        "f1-score": 0.9986449864498645,
+        "support": 1477.0
+    },
+    "ChestCT": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 1520.0
+    },
+    "Hand": {
+        "precision": 0.9980066445182725,
+        "recall": 0.9986702127659575,
+        "f1-score": 0.9983383183781988,
+        "support": 1504.0
+    },
+    "HeadCT": {
+        "precision": 0.9993455497382199,
+        "recall": 1.0,
+        "f1-score": 0.9996726677577742,
+        "support": 1527.0
+    },
+    "accuracy": 0.999434644957033,
+    "macro avg": {
+        "precision": 0.9994457046924663,
+        "recall": 0.9994398447591197,
+        "f1-score": 0.9994426620976395,
+        "support": 8844.0
+    },
+    "weighted avg": {
+        "precision": 0.999434791030477,
+        "recall": 0.999434644957033,
+        "f1-score": 0.9994346041941862,
+        "support": 8844.0
+    }
+}
